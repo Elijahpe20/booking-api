@@ -250,8 +250,16 @@ Para importarla:
 ## 👤 Autor
 
 **Elias Vilcachagua**  
+<<<<<<< HEAD
 GitHub: [@TU_USUARIO](https://github.com/Elijahpe20/booking-api.git)
 
 ## 📄 Licencia
 
 MIT License
+=======
+GitHub: (https://github.com/Elijahpe20/booking-api.git)
+
+## 📄 Licencia
+
+MIT License
+>>>>>>> d03a4ff03e4f044a67a272f10ff442618572332f
