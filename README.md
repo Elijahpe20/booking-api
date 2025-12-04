@@ -245,7 +245,13 @@ Para importarla:
 
 ## 🌐 Deploy
 
-**URL de producción:** [https://tu-proyecto.onrender.com](https://tu-proyecto.onrender.com)
+**URL de producción:** https://booking-api-pts1.onrender.com
+
+### Probar la API:
+- Base URL: `https://booking-api-pts1.onrender.com`
+- Ejemplo: `GET https://booking-api-pts1.onrender.com/hotels`
+
+**Nota:** La primera petición puede tardar 50 segundos debido al spin down de las instancias gratuitas de Render.
 
 ## 👤 Autor
 
